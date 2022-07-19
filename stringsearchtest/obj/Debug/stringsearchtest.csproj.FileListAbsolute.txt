@@ -1,0 +1,9 @@
+C:\Users\user_pc\documents\visual studio 2013\Projects\stringsearchtest\stringsearchtest\bin\Debug\stringsearchtest.exe.config
+C:\Users\user_pc\documents\visual studio 2013\Projects\stringsearchtest\stringsearchtest\obj\Debug\stringsearchtest.exe
+C:\Users\user_pc\documents\visual studio 2013\Projects\stringsearchtest\stringsearchtest\obj\Debug\stringsearchtest.pdb
+C:\Users\user_pc\documents\visual studio 2013\Projects\stringsearchtest\stringsearchtest\bin\Debug\stringsearchtest.exe
+C:\Users\user_pc\documents\visual studio 2013\Projects\stringsearchtest\stringsearchtest\bin\Debug\stringsearchtest.pdb
+C:\Users\user_pc\documents\visual studio 2013\Projects\stringsearchtest\stringsearchtest\obj\Debug\stringsearchtest.csprojResolveAssemblyReference.cache
+C:\Users\user_pc\documents\visual studio 2013\Projects\stringsearchtest\stringsearchtest\obj\Debug\stringsearchtest.Properties.Resources.resources
+C:\Users\user_pc\documents\visual studio 2013\Projects\stringsearchtest\stringsearchtest\obj\Debug\stringsearchtest.stringsearch.resources
+C:\Users\user_pc\documents\visual studio 2013\Projects\stringsearchtest\stringsearchtest\obj\Debug\stringsearchtest.csproj.GenerateResource.Cache
